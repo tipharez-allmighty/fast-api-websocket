@@ -1,5 +1,4 @@
-html_template = (
-"""
+html_template = """
 <!DOCTYPE html>
 <html>
     <head>
@@ -35,4 +34,3 @@ html_template = (
     </body>
 </html>
 """
-)

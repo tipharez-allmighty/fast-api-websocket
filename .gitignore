@@ -20,5 +20,3 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Ignore connection_manager
-connection_manager/
