@@ -1,5 +1,6 @@
 # Ignore environment variables
 .env
+env/  # Ignore the entire env folder
 
 # Ignore Python cache files
 __pycache__/
@@ -19,5 +20,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# ignore conenction_manager
-connection_manager
+# Ignore connection_manager
+connection_manager/
