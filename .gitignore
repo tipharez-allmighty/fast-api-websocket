@@ -20,4 +20,4 @@ __pycache__/
 Thumbs.db
 
 # ignore conenction_manager
-connection_manager.py
+connection_manager
